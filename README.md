@@ -4,7 +4,7 @@ IR Project for CS F469 by Abhishek Kumar (2018A4PS0653H) Gaurang Gupta (2018A7PS
 
 Download all the data files from https://drive.google.com/drive/u/1/folders/1yp-dyZVLe6tgy3rOVnC07KEMTIfM_CF7.
 
-json package is required to run the program.
+ujson or json package is required to run the program.
 
 The user can directly run the query.py and then enter the query to get the results.
 
